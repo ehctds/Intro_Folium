@@ -4,7 +4,7 @@ Este projeto tem como objetivo testar a biblioteca Folium com um dataset de acid
 
 Link dataset kaggle: https://www.kaggle.com/datasets/joebeachcapital/crash-data-queensland-australia-2001-2022?resource=download
 
-# Imagem do mapa 1, cada ponto tem as informações referentes ao acidente: 
+# Imagem mapa 1, cada ponto tem as informações referentes ao acidente: 
 
 ![Captura de tela 2023-07-04 210459](https://github.com/ehctds/Intro_Folium/assets/100098820/7715b15d-2dda-41cc-8524-33a7da47469d)
 
